@@ -7,13 +7,13 @@
 <div align="center">
     <h1>
         <a href="https://git.io/typing-svg">
-            <img src="https://readme-typing-svg.herokuapp.com?font=&size=33&pause=1000&color=E6EDF3&center=true&vCenter=true&random=false&width=700&height=54&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Junhao+Chen;Welcome+to+my+GitHub+page"
-                alt="Typing SVG" />
+            <img src="https://readme-typing-svg.herokuapp.com?font=&size=33&pause=1000&color=E6EDF3&center=true&vCenter=true&random=false&width=700&height=54&lines=Hoi+%F0%9F%91%8B%2C+ik+ben+Junhao+Chen;Welkom+op+mijn+GitHub+pagina"
+                alt="Typen SVG" />
         </a>
     </h1>
 </div>
 
-<h3 align="center">A full-stack developer from the Netherlands (Drechtsteden) that likes custom stuff 👍</h3>
+<h3 align="center">Een full-stack ontwikkelaar uit Nederland (Drechtsteden) die custom stuff leuk vind 👍</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dalikey&label=Profile%20views&color=0e75b6&style=flat"
         alt="dalikey" /> </p>
@@ -22,12 +22,12 @@
             src="https://github-profile-trophy.vercel.app/?username=dalikey&theme=onedark&column=4&margin-w=15&margin-h=15&no-bg=true&rank=-C,-B&title=Joined2020,Commits,PullRequest,Experience"
             alt="dalikey" /></a> </p>
 
--   🔭 I’m currently working on **school**
+-   🔭 Ik werk momenteel aan **school**
 
--   📫 How to reach me **junhao@hotmail.com** or 0647442517
+-   📫 Hoe kun je me bereiken **junhao@hotmail.com** of 0647442517
 
--   📄 Know about my experiences
-    [EN IT Resume - Junhao Chen.pdf](https://github.com/Dalikey/about-me/blob/main/EN%20IT%20Resume%20-%20Junhao%20Chen.pdf)
+-   📄 Mijn ervaringen
+    [NL IT CV - Junhao Chen.pdf](https://github.com/Dalikey/about-me/blob/main/NL%20IT%20CV%20-%20Junhao%20Chen.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -45,7 +45,7 @@
             alt="noname_j" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Talen en Tools:</h3>
 <p align="left">
     <a href="https://angular.io" target="_blank" rel="noreferrer">
         <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" />
