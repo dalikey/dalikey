@@ -40,7 +40,7 @@ I’m currently studying at Avans University and constantly learning new technol
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dalikey&show_icons=true&line_height=20&icon_color=2234AE&bg_color=0D1117&text_color=D3D3D3&locale=en&layout=compact&hide=html,css,scss" alt="Top Languages" style="margin-bottom: 20px;">
     <img src="https://github-readme-stats.vercel.app/api?username=dalikey&include_all_commits=true&count_private=true&show_icons=true&line_height=20&icon_color=2234AE&bg_color=0D1117&text_color=D3D3D3&locale=en" alt="GitHub Stats" style="margin-bottom: 20px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dalikey&theme=dark" alt="GitHub Streak Stats">
+<!--     <img src="https://github-readme-streak-stats.herokuapp.com/?user=dalikey&theme=dark" alt="GitHub Streak Stats"> -->
 </div>
 
 ---
