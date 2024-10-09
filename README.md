@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Junhao
 
-I’m currently studying at Avans University and constantly learning new technologies. In my free time, I enjoy playing games and watching videos. Feel free to reach out to me at [mjh.chen@student.avans.nl](mailto:mjh.chen@student.avans.nl).
+I’m currently studying at Avans University and constantly learning new technologies. In my free time, I enjoy playing games and watching videos. Feel free to reach out to me at [mjh.chen@student.avans.nl](mailto:junhao@hotmail.com).
 <!---
 ---
 
