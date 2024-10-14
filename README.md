@@ -1,6 +1,15 @@
 # 👋 Hi, I'm Junhao
 
-I’m currently studying at Avans University and constantly learning new technologies. In my free time, I enjoy playing games and watching videos. Feel free to reach out to me at [junhao@hotmail.com](mailto:junhao@hotmail.com).
+- **Languages:** Dutch (proficient), English (proficient)
+
+I'm currently a fourth-year Informatics student at Avans University of Applied Sciences, with a passion for full-stack development, particularly in JavaScript and related technologies. While I find C# manageable, I prefer working with JavaScript. I’m continuously expanding my knowledge in software development.
+
+Feel free to reach out to me at [junhao@hotmail.com](mailto:junhao@hotmail.com).
+
+---
+
+*I have a few other JavaScript projects, but since they are from a company, I prefer not to disclose them.*
+
 <!---
 ---
 
