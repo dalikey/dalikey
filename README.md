@@ -6,10 +6,6 @@ I'm currently a fourth-year Informatics student at Avans University of Applied S
 
 Feel free to reach out to me at [junhao@hotmail.com](mailto:junhao@hotmail.com).
 
----
-
-*I have a few other projects, but since they are from a company, I prefer not to disclose them.*
-
 <!---
 ---
 
