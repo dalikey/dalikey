@@ -8,7 +8,7 @@ Feel free to reach out to me at [junhao@hotmail.com](mailto:junhao@hotmail.com).
 
 ---
 
-*I have a few other JavaScript projects, but since they are from a company, I prefer not to disclose them.*
+*I have a few other projects, but since they are from a company, I prefer not to disclose them.*
 
 <!---
 ---
