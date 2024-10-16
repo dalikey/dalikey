@@ -2,7 +2,7 @@
 
 - **Languages:** Dutch (proficient), English (proficient)
 
-I'm currently a fourth-year Informatics student at Avans University of Applied Sciences, with a passion for full-stack development, particularly in JavaScript and related technologies. While I find C# manageable, I prefer working with JavaScript. I’m continuously expanding my knowledge in software development.
+I'm currently a fourth-year Informatics student at Avans University of Applied Sciences, with a passion for full-stack development, particularly in JavaScript or C# and related technologies. I’m continuously expanding my knowledge in software development.
 
 Feel free to reach out to me at [junhao@hotmail.com](mailto:junhao@hotmail.com).
 
